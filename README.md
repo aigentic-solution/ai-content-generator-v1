@@ -1,37 +1,43 @@
-# 🤖 AI Content Generator v1 (by Aigentic Solution)
+# 🤖 Aigentic Content Engine (v1.1)
 
-### "เปลี่ยนไอเดียสินค้า ให้กลายเป็นคอนเทนต์ปิดการขายใน 10 วินาที"
-
-เครื่องมือนี้ถูกออกแบบมาเพื่อ **SME และนักการตลาด** ที่ต้องการคอนเทนต์คุณภาพสูงที่มีโครงสร้างทางจิตวิทยา (Hook-Solution-CTA) โดยไม่ต้องจ้าง Copywriter แพงๆ
-
----
-
-## ✨ ผลลัพธ์ที่ได้ (The Result)
-เมื่อคุณกรอกข้อมูล AI จะสร้างโพสต์ที่ดูเป็นมืออาชีพ ดังนี้:
-- **Hook:** ประโยคเปิดที่หยุดนิ้วคนอ่าน (เช่น เรื่อง AI แย่งงาน)
-- **Solution:** แนวทางแก้ปัญหา 3 ขั้นตอนที่ชัดเจน
-- **Call to Action:** กระตุ้นให้คนทัก Inbox หรือทดลองเรียนฟรีทันที
-
-> **"ตัวอย่างผลลัพธ์: คอนเทนต์ที่เขียนโดยวิศวกร AI เพื่อตอบโจทย์ธุรกิจจริง"**
+### "The Smartest Way to Generate High-Conversion Facebook Content"
+**Aigentic Content Engine** คือเครื่องมือช่วยคิดคอนเทนต์ที่ผสานพลังของ **Google Gemini 1.5 Flash (Latest Version)** เข้ากับเทคนิคการเขียนคอนเทนต์เชิงจิตวิทยา (Hook-Solution-CTA) เพื่อสร้างโพสต์ที่ปิดการขายได้จริง
 
 ---
 
-## 🚀 วิธีใช้งานใน 3 ขั้นตอน (Step-by-Step)
-
-1. **ระบุกลุ่มเป้าหมาย:** เลือกกลุ่มคนที่คุณต้องการคุยด้วย (เช่น เจ้าของธุรกิจ หรือ นักศึกษา)
-2. **ใส่ชื่อสินค้า/บริการ:** พิมพ์สิ่งที่คุณอยากขายลงไป
-3. **กดปุ่ม Generate:** ระบบจะคำนวณและดึง "สมอง" ของ Senior AI Marketer มาเขียนโพสต์ให้คุณทันที!
-
----
-
-## 🛠️ Tech Stack & Security
-- **Engine:** Gemini 1.5 Flash API (Fast & Smart)
-- **Interface:** Streamlit Web UI
-- **Privacy:** ระบบรองรับการใส่ API Key ส่วนตัว ข้อมูลของคุณจึงปลอดภัย 100%
+## 🚀 Key Features (ความสามารถหลัก)
+- **Multi-Target Logic:** เจนคอนเทนต์เดียวให้โดนใจคนหลายกลุ่มพร้อมกัน
+- **Creativity Control:** ปรับระดับความ "กาว" หรือความ "จริงจัง" ของ AI ได้ตามใจชอบ
+- **History Tracking:** ระบบบันทึกประวัติล่าสุด 10 รายการ ไม่ต้องกลัวคำหาย
+- **Professional UI:** หน้าตาใช้งานง่าย รองรับ Dark Mode และ Mobile-Friendly
+- **Secure Handling:** ปลอดภัยด้วยระบบใส่ API Key ส่วนตัว หรือใช้งานผ่าน Environment Variables
 
 ---
 
-## 📞 สนใจระบบ Automation สำหรับธุรกิจ?
-หากคุณต้องการระบบที่ทำงานอัตโนมัติมากกว่านี้ (เช่น โพสต์ลง Facebook ให้อัตโนมัติทุกเช้า)
-- **ทักแชทสอบถาม:** [ใส่ลิงก์ Facebook Page ของคุณ]
-- **Aigentic Solution:** "เราเปลี่ยนงาน Manual ให้เป็นระบบอัจฉริยะ"
+## 🛠️ Tech Stack
+- **Framework:** Python & Streamlit
+- **AI Model:** Google Gemini 1.5 Flash (Latest)
+- **Library:** `google-generativeai`, `python-dotenv`
+
+---
+
+## 📸 Screenshots & Demo
+<img width="1572" height="734" alt="image" src="https://github.com/user-attachments/assets/a6d85e6d-542b-4c19-95d5-3fd169ab9c84" />
+
+> "เลือกกลุ่มเป้าหมาย -> ใส่โจทย์ -> ได้โพสต์พร้อมขายทันที"
+
+---
+
+## 🛡️ How to Use (สำหรับนักพัฒนา)
+1. Clone repository นี้ลงเครื่อง
+2. สร้างไฟล์ `.env` และใส่ `GEMINI_API_KEY=your_key`
+3. รันคำสั่ง `pip install -r requirements.txt`
+4. เริ่มใช้งานด้วย `streamlit run app.py`
+
+---
+
+## 🤝 Contact for Custom AI Solutions
+ต้องการระบบ AI Automation ที่ซับซ้อนกว่านี้ หรืออยากเชื่อมต่อกับ Facebook API เพื่อโพสต์อัตโนมัติ?
+- **Founder:** Achira | Aigentic Solution
+- **GitHub:** [aigentic-solution](https://github.com/aigentic-solution)
+- **Email:** achira.wanwasee@gmail.com
